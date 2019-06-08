@@ -18,7 +18,7 @@
         app:layout_constraintEnd_toStartOf="@+id/button"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="35dp" />
+        tools:layout_editor_absoluteY="64dp" />
 
     <Button
         android:id="@+id/button"
@@ -31,5 +31,5 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/editText"
         app:layout_constraintStart_toStartOf="@+id/editText"
-        tools:layout_editor_absoluteY="40dp" />
+        tools:layout_editor_absoluteY="69dp" />
 </android.support.constraint.ConstraintLayout>
